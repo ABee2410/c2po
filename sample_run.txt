@@ -1,0 +1,36 @@
+   ____ _           _              _ _   _        ____     ____  ____   ___  _ 
+  / ___| |__   __ _| |_  __      _(_) |_| |__    / ___|   |___ \|  _ \ / _ \| |
+ | |   | '_ \ / _` | __| \ \ /\ / / | __| '_ \  | |   _____ __) | |_) | | | | |
+ | |___| | | | (_| | |_   \ V  V /| | |_| | | | | |__|_____/ __/|  __/| |_| |_|
+  \____|_| |_|\__,_|\__|   \_/\_/ |_|\__|_| |_|  \____|   |_____|_|    \___/(_)
+
+Hello. I'm C-2PO.
+What is your name? Bah
+C-2PO: Tell me something about yourself Bah
+>>Bah: i like smothery buttery buns
+C-2PO: What's your favorite food?
+>>Bah: probably pizza
+C-2PO: I've never had food... sounds delicious though!
+>>Bah: yep its good
+C-2PO: All I know is life is happy when you're with good friends.
+>>Bah: i have a friend who owns a ferret
+C-2PO: Pets give most humans like you happiness and comfort
+>>Bah: 
+C-2PO: What's your favorite food?
+>>Bah: you already asked that
+C-2PO: Where do you live?
+>>Bah: why would you ask that?
+C-2PO: No, I'm just curious. How's your day then?
+>>Bah: pretty stressful
+C-2PO: Don't worry, be happy!
+>>Bah: easier said than done
+C-2PO: Oh, that's interesting
+>>Bah: well that sucks as a response
+C-2PO: Uh, huh.
+>>Bah: so does taht
+C-2PO: Do you really think so?
+>>Bah: ye
+C-2PO: What's your favorite food?
+>>Bah: Goodbye
+Goodbye. It was nice talking to youBah
+Would you like to chat again? (y/n)
